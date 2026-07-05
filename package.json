@@ -1,7 +1,9 @@
 {
-  "name": "jsm_gsap_landing",
+  "name": "the-fifth-sip",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "A premium cinematic cocktail lounge landing page built with modern web technologies.",
+  "author": "Arun <Beyond Webco>",
   "type": "module",
   "scripts": {
     "dev": "vite",

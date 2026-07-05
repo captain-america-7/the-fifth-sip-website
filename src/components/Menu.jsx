@@ -1,6 +1,6 @@
 'use client';
 
-import { allCocktails } from '../../constants/index.js'
+import { allCocktails } from '../constants/index.js'
 import { useRef, useState } from 'react'
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap';
@@ -78,7 +78,7 @@ const Menu = () => {
 		</div>
 		
 		<div className="cocktail">
-		 <img src={currentCocktail.image} className="object-contain"/>
+		 <img src={currentCocktail.image} alt={currentCocktail.name} className="object-contain" />
 		</div>
 		
 		<div className="recipe">

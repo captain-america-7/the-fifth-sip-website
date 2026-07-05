@@ -1,4 +1,4 @@
-import { openingHours, socials, storeInfo } from '../../constants/index.js'
+import { openingHours, socials, storeInfo } from '../constants/index.js'
 import { useGSAP } from '@gsap/react'
 import { SplitText} from 'gsap/all';
 import gsap from 'gsap';
@@ -69,7 +69,7 @@ const Contact = () => {
 				rel="noopener noreferrer"
 				aria-label={social.name}
 			 >
-				<img src={social.icon} />
+				<img src={social.icon} alt={social.name} />
 			 </a>
 			))}
 		 </div>

@@ -2,6 +2,8 @@
 
 A premium cinematic cocktail lounge landing page built with modern web technologies.
 
+🌐 **Live Site:** [thefifthsip.beyondwebco.com](https://thefifthsip.beyondwebco.com/)
+
 ## Overview
 The Fifth Sip is a highly interactive, beautifully designed landing page for a luxury cocktail lounge. It features scroll-triggered animations, smooth text reveals, and a modern aesthetic designed to captivate visitors.
 
@@ -60,6 +62,8 @@ To preview the production build locally:
 ```bash
 npm run preview
 ```
+
+**Live deployment:** [thefifthsip.beyondwebco.com](https://thefifthsip.beyondwebco.com/) (hosted on Beyond Webco)
 
 ## Credits
 **Developer**: Arun  
